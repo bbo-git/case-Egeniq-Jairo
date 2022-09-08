@@ -21,6 +21,7 @@ Some afterthoughts:
 
 I managed to finish the case in roughly 3 hours. 
 The code isn't thoroughly tested due to time constraints.
+I didnt use git in a meaningfull way.
 I didn't have the time to animate anything.
 There is no loading animation.
 Although I was intending to use MVC, there is a viewmodel class.
